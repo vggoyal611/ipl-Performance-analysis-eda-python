@@ -74,12 +74,30 @@ The analysis aims to address the following:
 
 # <a class="anchor" id="screenshots"></a>📸 Screenshots
 -	Top 5 Player of the Match performers (bar chart) <img width="836" height="541" alt="Image" src="https://github.com/user-attachments/assets/e3c731b9-f471-42e5-a57b-dc5a49c75652" />
--	Toss winner distribution (bar chart)<img width="735" height="717" alt="Image" src="https://github.com/user-attachments/assets/2c81d942-73bc-4328-a6db-5efc886b4645" />
--	Batting vs Fielding win strategy (bar chart)<img width="708" height="592" alt="Image" src="https://github.com/user-attachments/assets/051b56b2-b52c-406e-8f11-f9a451d58846" />
--	Win margin histograms (runs vs wickets)<img width="902" height="677" alt="Image" src="https://github.com/user-attachments/assets/e9a26062-f034-455b-8e66-41bfe2352d89" />
--	Team dominance chart (top 10 winners)<img width="693" height="725" alt="Image" src="https://github.com/user-attachments/assets/a2394415-e894-4752-8873-4676ba517f5b" />
--	Matches per season chart<img width="720" height="580" alt="Image" src="https://github.com/user-attachments/assets/53982284-f99e-4ae5-8856-349fabdf287b" />
--	Top cities and venues hosting charts<img width="676" height="577" alt="Image" src="https://github.com/user-attachments/assets/6dbe5c6b-5abd-4a17-a901-b7a1ed1532f0" />
+-	Toss winner distribution (bar chart)
+
+
+<img width="735" height="717" alt="Image" src="https://github.com/user-attachments/assets/2c81d942-73bc-4328-a6db-5efc886b4645" />
+-	Batting vs Fielding win strategy (bar chart)
+
+
+ 	<img width="708" height="592" alt="Image" src="https://github.com/user-attachments/assets/051b56b2-b52c-406e-8f11-f9a451d58846" />
+-	Win margin histograms (runs vs wickets)
+
+
+ 	<img width="902" height="677" alt="Image" src="https://github.com/user-attachments/assets/e9a26062-f034-455b-8e66-41bfe2352d89" />
+-	Team dominance chart (top 10 winners)
+
+
+ 	<img width="693" height="725" alt="Image" src="https://github.com/user-attachments/assets/a2394415-e894-4752-8873-4676ba517f5b" />
+-	Matches per season chart
+
+
+ 	<img width="720" height="580" alt="Image" src="https://github.com/user-attachments/assets/53982284-f99e-4ae5-8856-349fabdf287b" />
+-	Top cities and venues hosting charts
+
+
+ 	<img width="676" height="577" alt="Image" src="https://github.com/user-attachments/assets/6dbe5c6b-5abd-4a17-a901-b7a1ed1532f0" />
 
 # <a class="anchor" id="author--contact"></a>👤 Author & 📧 Contact
 👤 Author: Vaibhav Goyal <br>
