@@ -73,7 +73,7 @@ The analysis aims to address the following:
 
 
 # <a class="anchor" id="screenshots"></a>📸 Screenshots
--	Top 5 Player of the Match performers (bar chart) (https://github.com/vggoyal611/ipl-Performance-analysis-eda-python/blob/60ab85b4620079abc1b3446bc12a9d3650201672/Screenshots/Margin%20Distribution.png)
+-	Top 5 Player of the Match performers (bar chart) <img width="836" height="541" alt="Image" src="https://github.com/user-attachments/assets/e3c731b9-f471-42e5-a57b-dc5a49c75652" />
 -	Toss winner distribution (bar chart)
 -	Batting vs Fielding win strategy (bar chart)
 -	Win margin histograms (runs vs wickets)
