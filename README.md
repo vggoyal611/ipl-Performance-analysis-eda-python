@@ -73,7 +73,7 @@ The analysis aims to address the following:
 
 
 # <a class="anchor" id="screenshots"></a>📸 Screenshots
--	Top 5 Player of the Match performers (bar chart) (Screenshots/Margin Distribution.png)
+-	Top 5 Player of the Match performers (bar chart) (screenshots/Margin Distribution.png)
 -	Toss winner distribution (bar chart)
 -	Batting vs Fielding win strategy (bar chart)
 -	Win margin histograms (runs vs wickets)
