@@ -1,4 +1,4 @@
-# <h1 align="center">🏏 IPL Data Analysis (EDA</h1>
+# <h1 align="center">🏏 IPL Data Analysis (EDA)</h1>
 
 Performing Exploratory Data Analysis (EDA) on IPL match data to uncover patterns in player performance, team strategies, and match outcomes.
 
